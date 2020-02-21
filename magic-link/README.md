@@ -1,7 +1,5 @@
 # Magic Link authenticator for Keycloak
 
-![magic](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
-
 Allows users to authenticate through a link sent to their email address instead of using a password.
 
 Screencast available here: https://youtu.be/oyUsI3QgEq8
