@@ -38,7 +38,7 @@
     	<!-- 
         <version.keycloak>4.8.3.Final</version.keycloak>
         -->
-        <version.keycloak>9.0.0</version.keycloak>
+        <version.keycloak>19.0.0</version.keycloak>
         <!-- 
         <version.wildfly.maven.plugin>1.1.0.Final</version.wildfly.maven.plugin>
         -->
